@@ -1,5 +1,5 @@
 {
-  "name": "angular-test2",
+  "name": "angular-heroes",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
