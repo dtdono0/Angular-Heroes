@@ -1,6 +1,6 @@
 # AngularHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3 and updated to version 10.2.0 before the first release.
 
 ## Development server
 
